@@ -16,13 +16,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'simon_db');
+define('DB_NAME', 'coulton.org');
 
 /** MySQL database username */
-define('DB_USER', 'simon_db_usr');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '56gdbd8NMKi9fndsfkladsf9');
+define('DB_PASSWORD', 'punkrock');
 
 /** MySQL hostname */
 define('DB_HOST', '127.0.0.1');
